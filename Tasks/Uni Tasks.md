@@ -1,5 +1,5 @@
 - [ ] Machine Construction - Sheet Assignmenet 📅 2023-03-27 
-- [ ] Stress Analysis Lab1Q1 📅 2023-03-27
+- [x] Stress Analysis Lab1Q1 📅 2023-03-27 ✅ 2023-03-22
 - [ ] Stress Analysis - Lab2Q2 📅 2023-03-31
 - [ ] Diff- Laplace
 - [ ] Diff - Laplace Inverse
