@@ -82,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks/Tasks.md"
+              }
             }
           },
           {
@@ -169,8 +173,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7567c8705ddb9dd3",
+  "active": "7f720b93c5db869f",
   "lastOpenFiles": [
+    "objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",
+    "objects/e3",
+    "objects",
+    "index",
     "Untitled.md",
     "Journal/2023-03-22.md",
     "Tasks",
