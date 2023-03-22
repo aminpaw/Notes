@@ -1,0 +1,4 @@
+- [ ] Machine Construction - Sheet Assignmenet 📅 2023-03-27
+- [ ] Stress Analysis Lab1Q1 📅 2023-03-27
+- [ ] Stress Analysis - Lab2Q2 📅 2023-03-31
+- [ ] 

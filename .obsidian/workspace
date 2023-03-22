@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "3af4fbf654bbe574",
+    "type": "split",
+    "children": [
+      {
+        "id": "84795f8e20d39a10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Machine Construction/Lecture 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b2bdda8443a3481",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c9950e4f022c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442d43ca5a43e5af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b8304f6bebe12c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92f71318da16a769",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50968f516fc933ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca5fc2a64eed337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a15d1e14d81bdba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Construction/Lecture 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4eb8b8504216091",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Construction/Lecture 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9100a693188c5815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a612d3ffa0025fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Construction/Lecture 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84795f8e20d39a10",
+  "lastOpenFiles": [
+    "Machine Construction/Lecture 1.md"
+  ]
+}
