@@ -10,4 +10,5 @@
 - [ ] Electronics - Lec 7
 - [ ] Machine Con - Shafts
 - [ ] Electronics - Quiz 📅 2023-03-24 
+- [ ] Thermo - Quiz 📅 2023-03-27 
 
