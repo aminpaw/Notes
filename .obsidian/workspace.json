@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "50968f516fc933ab",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/FSAI Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/FSAI Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/FSAI Tasks.md"
+                "file": "Tasks/Tasks.md"
               }
             }
           },
@@ -166,9 +165,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e02e1c4cb38df85",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "9dcf06a600ac01f7",
@@ -202,9 +215,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "211416a8eaad1ff4",
+  "active": "2e02e1c4cb38df85",
   "lastOpenFiles": [
     "Tasks/Uni Tasks.md",
+    "Tasks/Tasks.md",
     "Tasks/FSAI Tasks.md",
     "objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",
     "objects/e3",
