@@ -1,9 +1,19 @@
+# Uni Tasks
 ```tasks
-group by heading
-group by status 
-hide backlink
+created before tomorrow 
+heading includes uni
 sort by done reverse
-sort by filename reverse
-sort by due
+sort by heading reverse
+sort by due 
+hide backlink
+```
+
+# FSAI Tasks
+```tasks
+heading includes fsai
+sort by done reverse
+sort by heading reverse
+sort by due 
+hide backlink
 ```
 
