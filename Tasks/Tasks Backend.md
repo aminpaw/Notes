@@ -10,7 +10,7 @@
 - [x] Electronics - Lec 6 ✅ 2023-03-24
 - [x] Electronics - Lec 7 ✅ 2023-03-24
 - [ ] Machine Con - Shafts
-- [ ] Electronics - Quiz 📅 2023-03-24 
+- [x] Electronics - Quiz 📅 2023-03-24 ✅ 2023-03-24
 
 
 # FSAI
