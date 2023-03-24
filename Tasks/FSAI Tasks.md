@@ -1,7 +1,0 @@
-- [ ] Refactor the code
-- [ ] Implement Casadi
-- [ ] Fix the folder structure
-- [ ] Add createRaceline module
-- [ ] Add lqrHandler module
-- [ ] Add unit tests
-- [ ] Merge fixed code with original branches
