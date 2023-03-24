@@ -1,6 +1,6 @@
 # Uni Tasks
 ```tasks
-created before tomorrow 
+NOT (done before last week)
 heading includes uni
 sort by done reverse
 sort by heading reverse
