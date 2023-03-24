@@ -6,8 +6,8 @@
 - [ ] Metallurgy - Project Report 1
 - [ ] Thermo - Exergy Lec 1,2
 - [ ] Electronics - Lab Report 📅 2023-03-29 
-- [ ] Electronics - Lec 6
-- [ ] Electronics - Lec 7
+- [x] Electronics - Lec 6 ✅ 2023-03-24
+- [x] Electronics - Lec 7 ✅ 2023-03-24
 - [ ] Machine Con - Shafts
 - [ ] Electronics - Quiz 📅 2023-03-24 
 
