@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b102314e52361a4a",
+        "id": "031f7d89d0fe4760",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e3fc5c3e2cb354",
+            "id": "7124c41185c088ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Tasks/Tasks Backend.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c913172e8c0ed343",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Tasks/Tasks Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Tasks/Tasks Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Tasks.md"
+                "file": "Tasks/Tasks Backend.md"
               }
             }
           },
@@ -146,14 +137,14 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,9 +163,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9100a693188c5815",
+  "active": "7124c41185c088ef",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
+    "Untitled.md",
     "Tasks/Tasks Backend.md",
     "Tasks/FSAI Tasks.md",
     "objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",

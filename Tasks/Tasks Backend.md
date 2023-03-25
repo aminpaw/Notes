@@ -1,7 +1,7 @@
 # Uni
 - [ ] Machine Construction - Sheet Assignmenet 📅 2023-03-27 
 - [x] Stress Analysis Lab1Q1 📅 2023-03-27 ✅ 2023-03-22
-- [ ] Stress Analysis - Lab2Q2 📅 2023-03-31
+- [ ] Stress Analysis - Lab2Q2 📅 2023-03-27
 - [x] Diff- Laplace ✅ 2023-03-24
 - [x] Diff - Laplace Inverse ✅ 2023-03-25
 - [ ] Metallurgy - Project Report 1
@@ -11,6 +11,8 @@
 - [x] Electronics - Lec 7 ✅ 2023-03-24
 - [ ] Machine Con - Shafts
 - [x] Electronics - Quiz 📅 2023-03-24 ✅ 2023-03-24
+- [ ] Thermo - Quiz 📅 2023-03-27
+- [ ] 
 
 
 # FSAI
