@@ -23,13 +23,6 @@ heading includes uni
 sort by done reverse
 hide backlink
 ```
-```tasks
-NOT (done before today)
-sort by tags
-heading includes uni
-sort by done reverse
-hide backlink
-```
 # FSAI Tasks
 ```tasks
 heading includes fsai

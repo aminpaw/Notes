@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "031f7d89d0fe4760",
+        "id": "3d006ae7975178d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7124c41185c088ef",
+            "id": "7b44e5754a90ad65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Tasks Backend.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Tasks Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Tasks Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks/Tasks Backend.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7124c41185c088ef",
+  "active": "7b44e5754a90ad65",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/Tasks Backend.md",
