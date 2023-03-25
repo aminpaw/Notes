@@ -1,18 +1,18 @@
 # Uni
-- [ ] Machine Construction - Sheet Assignmenet 📅 2023-03-27 
+- [ ] #MachineConstruction Sheet Assignment 📅 2023-03-27
 - [x] Stress Analysis Lab1Q1 📅 2023-03-27 ✅ 2023-03-22
-- [ ] Stress Analysis - Lab2Q2 📅 2023-03-27
+- [ ] #MachineConstruction Lab2 Q2 📅 2023-03-27
 - [x] Diff- Laplace ✅ 2023-03-24
 - [x] Diff - Laplace Inverse ✅ 2023-03-25
-- [ ] Metallurgy - Project Report 1
-- [ ] Thermo - Exergy Lec 1,2
-- [ ] Electronics - Lab Report 📅 2023-03-29 
+- [ ] #Metallurgy Project Report 1
+- [ ] #Thermo Exergy 1
+- [ ] #Thermo Exergy 2
+- [ ] #Electronics Lab 1 Report 📅 2023-03-29
 - [x] Electronics - Lec 6 ✅ 2023-03-24
 - [x] Electronics - Lec 7 ✅ 2023-03-24
-- [ ] Machine Con - Shafts
+- [ ] #MachineConstruction Shafts
 - [x] Electronics - Quiz 📅 2023-03-24 ✅ 2023-03-24
-- [ ] Thermo - Quiz 📅 2023-03-27
-- [ ] 
+- [ ] #Thermo Quiz 📅 2023-03-27
 
 
 # FSAI
