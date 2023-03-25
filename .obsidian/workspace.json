@@ -139,18 +139,6 @@
             }
           },
           {
-            "id": "7f720b93c5db869f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Tasks Backend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e02e1c4cb38df85",
             "type": "leaf",
             "pinned": true,
@@ -165,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,7 +172,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2e02e1c4cb38df85",
+  "active": "9100a693188c5815",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/Tasks Backend.md",

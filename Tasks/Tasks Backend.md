@@ -3,7 +3,7 @@
 - [x] Stress Analysis Lab1Q1 📅 2023-03-27 ✅ 2023-03-22
 - [ ] Stress Analysis - Lab2Q2 📅 2023-03-31
 - [x] Diff- Laplace ✅ 2023-03-24
-- [/] Diff - Laplace Inverse
+- [x] Diff - Laplace Inverse ✅ 2023-03-25
 - [ ] Metallurgy - Project Report 1
 - [ ] Thermo - Exergy Lec 1,2
 - [ ] Electronics - Lab Report 📅 2023-03-29 
