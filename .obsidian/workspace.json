@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c913172e8c0ed343",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,6 @@
       {
         "id": "aca5fc2a64eed337",
         "type": "tabs",
-        "dimension": 60.69767441860465,
         "children": [
           {
             "id": "7a15d1e14d81bdba",
@@ -158,21 +166,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "9dcf06a600ac01f7",
-        "type": "tabs",
-        "dimension": 39.30232558139535,
-        "children": [
-          {
-            "id": "7567c8705ddb9dd3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -191,10 +184,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c0e3fc5c3e2cb354",
+  "active": "2e02e1c4cb38df85",
   "lastOpenFiles": [
-    "Tasks/Tasks Backend.md",
     "Tasks/Tasks.md",
+    "Tasks/Tasks Backend.md",
     "Tasks/FSAI Tasks.md",
     "objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",
     "objects/e3",
