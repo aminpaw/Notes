@@ -1,5 +1,5 @@
 # Uni
-- [/] #MachineConstruction Sheet Assignment 📅 2023-03-27
+- [x] #MachineConstruction Sheet Assignment 📅 2023-03-27 ✅ 2023-03-25
 - [x] Stress Analysis Lab1Q1 📅 2023-03-27 ✅ 2023-03-22
 - [/] #MachineConstruction Lab2 Q2 📅 2023-03-27
 - [x] Diff- Laplace ✅ 2023-03-24
