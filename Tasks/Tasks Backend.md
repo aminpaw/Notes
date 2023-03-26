@@ -7,12 +7,12 @@
 - [ ] #Metallurgy Project Report 1
 - [ ] #Thermo Exergy 1
 - [ ] #Thermo Exergy 2
-- [/] #Electronics Lab 1 Report 📅 2023-03-29
+- [x] #Electronics Lab 1 Report 📅 2023-03-29 ✅ 2023-03-26
 - [x] Electronics - Lec 6 ✅ 2023-03-24
 - [x] Electronics - Lec 7 ✅ 2023-03-24
 - [ ] #MachineConstruction Shafts
 - [x] Electronics - Quiz 📅 2023-03-24 ✅ 2023-03-24
-- [ ] #Thermo Quiz 📅 2023-03-27
+- [/] #Thermo Quiz 📅 2023-03-27
 
 
 # FSAI
