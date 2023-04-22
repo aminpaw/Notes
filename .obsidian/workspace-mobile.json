@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Uni Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Uni Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Uni Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks/Uni Tasks.md",
+            "file": "Tasks/Tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tasks/Uni Tasks.md",
+            "file": "Tasks/Tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tasks/Uni Tasks.md"
+            "file": "Tasks/Tasks.md"
           }
         }
       },
@@ -229,10 +229,9 @@
   },
   "active": "84795f8e20d39a10",
   "lastOpenFiles": [
+    "Tasks/TasksBack.md",
     "Tasks/Tasks.md",
-    "Tasks/Uni Tasks.md",
     "Tasks",
-    "Tasks/Uni Tasks.md",
     "Tasks/FSAI Tasks.md",
     "Midterms/Electronics.md",
     "Midterms",
