@@ -11,8 +11,12 @@
             "id": "84795f8e20d39a10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Uni Tasks.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "3e025264c676d37c"
           }
@@ -28,6 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tasks/Uni Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,6 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tasks/Uni Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,6 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Tasks/Uni Tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,6 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Tasks/Uni Tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -190,7 +198,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Tasks/Uni Tasks.md"
+          }
         }
       },
       {
@@ -217,13 +227,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8732749b5267e0d8",
+  "active": "84795f8e20d39a10",
   "lastOpenFiles": [
+    "Tasks/Tasks.md",
+    "Tasks/Uni Tasks.md",
     "Tasks",
     "Tasks/Uni Tasks.md",
     "Tasks/FSAI Tasks.md",
     "Midterms/Electronics.md",
-    "Tasks/Tasks.md",
     "Midterms",
     "/index",
     "index",
