@@ -5,8 +5,9 @@
 - [ ] #Electronics Arduino voltmeter 
 - [ ] #Thermo Start discussing project
 - [ ] #Thermo Refrigeration 
-- [ ] #Machine Lec 2
+- [x] #Machine Lec 2 ✅ 2023-04-23
 - [ ] #Machine Section 2
 - [ ] #Machine practice drawing
 - [ ] #Rigid Force Acceleration method 
 - [ ] #Electronics Quiz 📅 2023-04-25 
+- [ ] #Machine Lec 3
