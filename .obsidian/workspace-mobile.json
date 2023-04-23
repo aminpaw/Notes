@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Professional/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Professional/CV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Professional/CV.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks/Tasks.md",
+            "file": "Professional/CV.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tasks/Tasks.md",
+            "file": "Professional/CV.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tasks/Tasks.md"
+            "file": "Professional/CV.md"
           }
         }
       },
@@ -229,8 +229,11 @@
   },
   "active": "84795f8e20d39a10",
   "lastOpenFiles": [
-    "Tasks/TasksBack.md",
+    "Professional/Untitled",
     "Tasks/Tasks.md",
+    "Professional/CV.md",
+    "Professional",
+    "Tasks/TasksBack.md",
     "Tasks",
     "Tasks/FSAI Tasks.md",
     "Midterms/Electronics.md",
