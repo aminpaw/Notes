@@ -11,3 +11,10 @@
 - [ ] #Rigid Force Acceleration method 
 - [ ] #Electronics Quiz 📅 2023-04-25 
 - [ ] #Machine Lec 3
+- [ ] #Thermo Rankine Cycle
+- [ ] #Machine Lab 3 📅 2023-05-05
+- [ ] #Machine Reverse Engineering Project
+- [ ] #Diff Quiz
+- [ ] #Diff Formative Assignment 📅 2023-05-12
+- [ ] #Metallurgy Quiz 3
+- [ ] #Metallurgy 

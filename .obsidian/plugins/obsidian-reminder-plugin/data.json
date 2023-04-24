@@ -1,0 +1,41 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Tasks/TasksBack.md": [
+      {
+        "title": "#Electronics Quiz",
+        "time": "2023-04-25",
+        "rowNumber": 11
+      },
+      {
+        "title": "#Machine Lab 3",
+        "time": "2023-05-05",
+        "rowNumber": 14
+      },
+      {
+        "title": "#Diff Formative Assignment",
+        "time": "2023-05-12",
+        "rowNumber": 17
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "📅",
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
