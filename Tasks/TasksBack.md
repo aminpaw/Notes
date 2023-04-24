@@ -1,7 +1,7 @@
 # Uni
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis 
-- [ ] #Electronics OpAmps
+- [x] #Electronics OpAmps ✅ 2023-04-24
 - [x] #Electronics Arduino voltmeter ✅ 2023-04-24
 - [ ] #Thermo Start discussing project
 - [ ] #Thermo Refrigeration 
@@ -20,4 +20,6 @@
 - [ ] #Metallurgy Report
 - [ ] #Thermo Project 📅 2023-05-26
 - [ ] #Electronics Lab 4 📅 2023-05-05
+- [ ] #Machine Lab 3📅 2023-05-06
+- [ ] #Machine Sheet 2 📅 2023-05-01 
 

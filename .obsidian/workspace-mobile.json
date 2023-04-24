@@ -218,6 +218,14 @@
           "type": "reminder-list",
           "state": {}
         }
+      },
+      {
+        "id": "7d4ba423eddedac0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 3
@@ -238,7 +246,10 @@
   "active": "84795f8e20d39a10",
   "lastOpenFiles": [
     "Tasks/TasksBack.md",
+    "Untitled.canvas",
     "Tasks/Tasks.md",
+    "2023-W17.md",
+    "2023-04-24.md",
     "Professional/CV.md",
     "Professional/Untitled",
     "Professional",
