@@ -2,7 +2,7 @@
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis 
 - [ ] #Electronics OpAmps
-- [ ] #Electronics Arduino voltmeter 
+- [x] #Electronics Arduino voltmeter ✅ 2023-04-24
 - [ ] #Thermo Start discussing project
 - [ ] #Thermo Refrigeration 
 - [x] #Machine Lec 2 ✅ 2023-04-23
@@ -13,8 +13,11 @@
 - [ ] #Machine Lec 3
 - [ ] #Thermo Rankine Cycle
 - [ ] #Machine Lab 3 📅 2023-05-05
-- [ ] #Machine Reverse Engineering Project
+- [ ] #Machine Reverse Engineering Project 📅 2023-05-13
 - [ ] #Diff Quiz
 - [ ] #Diff Formative Assignment 📅 2023-05-12
 - [ ] #Metallurgy Quiz 3
-- [ ] #Metallurgy 
+- [ ] #Metallurgy Report
+- [ ] #Thermo Project 📅 2023-05-26
+- [ ] #Electronics Lab 4 📅 2023-05-05
+
