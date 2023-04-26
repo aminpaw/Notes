@@ -4,35 +4,53 @@ kanban-plugin: basic
 
 ---
 
-## Uni
+## Machine
 
-- [ ] #Thermo Start discussing project
-- [ ] #Thermo Refrigeration
-- [ ] #Rigid Force Acceleration method
-- [ ] #Thermo Rankine Cycle
-- [ ] #Thermo Project 📅 2023-05-26
-- [ ] #Electronics Lab 4 📅 2023-05-05
-- [ ] #Electronics Lab 3 📅 2023-05-05
+- [ ] #Machine Lab 3 📅 2023-05-05
+- [ ] #Machine Lec 3
+- [ ] #Machine Section 2
+- [ ] #Machine Project Submission 📅 2023-05-25
+- [ ] #Machine Trolley Sheet 2 📅 2023-05-01
+- [ ] #Machine Reverse Engineering 📅 2023-05-15
+- [ ] #Machine Wall Mounted Jib Crane 📅 2023-05-25
+
+
+## Metallurgy
+
+- [ ] #Metallurgy Fatigue Lec1
+- [ ] #Metallurgy Fatigue Lec2
+- [ ] #Metallurgy  Impact
+- [ ] #Metallurgy Heat Treatment
+- [ ] #Metallurgy Quiz 3 📅 2023-04-30
+- [ ] #Metallurgy Report
+- [ ] #Metallurgy Quiz 4📅 2023-05-7
+- [ ] #Metallurgy Practical Exam 📅 2023-05-13
+
+
+## Rigid
+
+- [ ] #Rigid Kinetics Force & Acceleration Method Part 1
+- [ ] #Rigid Kinetics Force & Acceleration Method Part 2
+
+
+## Thermodynamics
+
+- [ ] Project 📅 2023-05-25
+- [ ] Rankine Cycle
+- [ ] Refrigeration Cycle
 
 
 ## Differential
 
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis
-- [ ] #Diff Quiz
+- [ ] #Diff Quiz📅 2023-05-06
 - [ ] #Diff Formative Assignment 📅 2023-05-12
 
-
-## Machine
-
-- [ ] #Machine Lab 3📅 2023-05-06
-- [ ] #Machine Sheet 2 📅 2023-05-01
-- [ ] #Machine Lab 3 📅 2023-05-05
-- [ ] #Machine Reverse Engineering Project 📅 2023-05-13
-- [ ] #Machine Lec 3
-- [ ] #Machine Section 2
-- [ ] #Machine practice drawing
-
+## Electronics
+- [ ] Lab 3
+- [ ] Lab 4
+- [ ] Project
 
 ## Doing
 
@@ -40,15 +58,6 @@ kanban-plugin: basic
 
 ## Ideas
 
-## Metallurgy
-- [ ] #Metallurgy Fatigue Lec1
-- [ ] #Metallurgy Fatigue Lec2
-- [ ] #Metallurgy  Impact 
-- [ ] #Metallurgy Heat Treatment
-- [ ] #Metallurgy Quiz 3 📅 2023-04-30 
-- [ ] #Metallurgy Report
-- [ ] #Metallurgy Quiz 4📅 2023-05-7
-- [ ] #Metallurgy Practical Exam 📅 2023-05-13
 
 
 ## FSAI
