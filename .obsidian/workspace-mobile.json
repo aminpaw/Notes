@@ -13,11 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Uni Tasks.md",
+                "file": "Tasks/Tasks.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "3e025264c676d37c"
+          }
+        ]
+      },
+      {
+        "id": "d7be18e8c2d19fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c8cb06f3c9489c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tasks/Tasks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "3e025264c676d37c"
+          }
+        ]
+      },
+      {
+        "id": "95235fc38c03979f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e846fc24db5c5ffb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tasks/Tasks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "3e025264c676d37c"
           }
         ]
       }
@@ -85,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks/Uni Tasks.md",
+            "file": "Tasks/Tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tasks/Uni Tasks.md",
+            "file": "Tasks/Tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tasks/Uni Tasks.md"
+            "file": "Tasks/Tasks.md"
           }
         }
       },
@@ -144,7 +229,12 @@
   },
   "active": "84795f8e20d39a10",
   "lastOpenFiles": [
+    "Tasks/TasksBack.md",
+    "Tasks/Tasks.md",
+    "Tasks",
     "Tasks/FSAI Tasks.md",
+    "Midterms/Electronics.md",
+    "Midterms",
     "/index",
     "index",
     "/objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",
