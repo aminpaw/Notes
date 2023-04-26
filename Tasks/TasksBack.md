@@ -1,3 +1,7 @@
+---
+kanban-plugin: basic
+---
+
 # Uni
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis 
@@ -22,4 +26,5 @@
 - [ ] #Electronics Lab 4 📅 2023-05-05
 - [ ] #Machine Lab 3📅 2023-05-06
 - [ ] #Machine Sheet 2 📅 2023-05-01 
-
+- [ ] #Electronics Lab 3 📅 2023-05-05
+-

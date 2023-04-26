@@ -1,0 +1,88 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "Rigid",
+              "displayTitle": "Rigid"
+            },
+            {
+              "tag": "Electronics",
+              "displayTitle": "Electronics"
+            },
+            {
+              "tag": "Machine",
+              "displayTitle": "Machine Construction"
+            },
+            {
+              "tag": "Metallurgy",
+              "displayTitle": "Metallurgy"
+            },
+            {
+              "tag": "Diff",
+              "displayTitle": "Differential"
+            },
+            {
+              "tag": "Thermo",
+              "displayTitle": "Thermodynamics"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Tasks"
+            },
+            {
+              "tag": "fileFilter",
+              "data": "Tasks/TasksBack.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Uni Tasks",
+          "collapsedColumns": []
+        }
+      },
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Tasks/TasksBack.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeUndated": true,
+          "title": "Calendar",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianTasks",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}
