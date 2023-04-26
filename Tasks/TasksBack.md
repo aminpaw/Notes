@@ -9,7 +9,7 @@
 - [ ] #Machine Section 2
 - [ ] #Machine practice drawing
 - [ ] #Rigid Force Acceleration method 
-- [ ] #Electronics Quiz 📅 2023-04-25 
+- [x] #Electronics Quiz 📅 2023-04-25 ✅ 2023-04-26
 - [ ] #Machine Lec 3
 - [ ] #Thermo Rankine Cycle
 - [ ] #Machine Lab 3 📅 2023-05-05

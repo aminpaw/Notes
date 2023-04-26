@@ -3,11 +3,6 @@
   "reminders": {
     "Tasks/TasksBack.md": [
       {
-        "title": "#Electronics Quiz",
-        "time": "2023-04-25",
-        "rowNumber": 11
-      },
-      {
         "title": "#Machine Lab 3",
         "time": "2023-05-05",
         "rowNumber": 14
