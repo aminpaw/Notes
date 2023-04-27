@@ -14,5 +14,42 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-reminder-plugin:show-date-chooser": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "2"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-kanban:archive-completed-cards": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

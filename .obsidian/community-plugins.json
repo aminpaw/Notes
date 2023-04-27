@@ -2,5 +2,7 @@
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-version-history-diff",
-  "card-board"
+  "card-board",
+  "obsidian-kanban",
+  "obsidian-reminder-plugin"
 ]

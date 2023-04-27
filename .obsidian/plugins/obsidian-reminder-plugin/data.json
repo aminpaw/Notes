@@ -3,48 +3,73 @@
   "reminders": {
     "Tasks/TasksBack.md": [
       {
-        "title": "#Machine Lab 3",
-        "time": "2023-05-05",
-        "rowNumber": 14
+        "title": "#Metallurgy Quiz 3",
+        "time": "2023-04-30",
+        "rowNumber": 27
       },
       {
-        "title": "#Machine Reverse Engineering Project",
-        "time": "2023-05-13",
-        "rowNumber": 15
+        "title": "#Machine Trolley Sheet 2",
+        "time": "2023-05-01",
+        "rowNumber": 17
+      },
+      {
+        "title": "ADF paper",
+        "time": "2023-05-04",
+        "rowNumber": 8
+      },
+      {
+        "title": "#Machine Lab 3",
+        "time": "2023-05-05",
+        "rowNumber": 13
+      },
+      {
+        "title": "#Diff Quiz",
+        "time": "2023-05-06",
+        "rowNumber": 50
+      },
+      {
+        "title": "#Metallurgy Quiz 4",
+        "time": "2023-05-07",
+        "rowNumber": 29
       },
       {
         "title": "#Diff Formative Assignment",
         "time": "2023-05-12",
-        "rowNumber": 17
+        "rowNumber": 51
       },
       {
-        "title": "#Thermo Project",
-        "time": "2023-05-26",
-        "rowNumber": 20
+        "title": "#Metallurgy Practical Exam",
+        "time": "2023-05-13",
+        "rowNumber": 30
       },
       {
-        "title": "#Electronics Lab 4",
-        "time": "2023-05-05",
-        "rowNumber": 21
+        "title": "#Machine Reverse Engineering",
+        "time": "2023-05-15",
+        "rowNumber": 18
       },
       {
-        "title": "#Machine Lab 3",
-        "time": "2023-05-06",
-        "rowNumber": 22
+        "title": "#Machine Project Submission",
+        "time": "2023-05-25",
+        "rowNumber": 16
       },
       {
-        "title": "#Machine Sheet 2",
-        "time": "2023-05-01",
-        "rowNumber": 23
+        "title": "#Machine Wall Mounted Jib Crane",
+        "time": "2023-05-25",
+        "rowNumber": 19
+      },
+      {
+        "title": "Project",
+        "time": "2023-05-25",
+        "rowNumber": 41
       }
     ]
   },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
-    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": false,
-    "autoCompleteTrigger": "📅",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week\nIn 3 days\nIn 2 days\nIn 4 days\nIn 5 days\nIn 6 days\nIn 0 days",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "TasksPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
     "dateFormat": "YYYY-MM-DD",
@@ -54,7 +79,7 @@
     "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
-    "enableKanbanPluginReminderFormat": false,
+    "enableKanbanPluginReminderFormat": true,
     "editDetectionSec": 10,
     "reminderCheckIntervalSec": 5
   }

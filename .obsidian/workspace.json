@@ -11,11 +11,9 @@
             "id": "c592cf532c1268ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tasks/TasksBack.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks/TasksBack.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "50968f516fc933ab",
@@ -140,13 +139,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69fc86404684edd0",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +172,10 @@
   },
   "active": "c592cf532c1268ac",
   "lastOpenFiles": [
+    "Tasks/Tasks.md",
+    "Tasks/TasksBack.md",
     "Untitled.md",
     "202304261508.md",
-    "Tasks/TasksBack.md",
-    "Tasks/Tasks.md",
     "Tasks/Untitled Kanban 2.md",
     "Tasks/Untitled Kanban 1.md",
     "Tasks/Untitled Kanban.md",
