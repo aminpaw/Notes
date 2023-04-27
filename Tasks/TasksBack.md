@@ -11,9 +11,9 @@ kanban-plugin: basic
 
 ## Machine
 
-- [ ] #Machine Lab 3 📅 2023-05-05
 - [ ] #Machine Lec 3
 - [ ] #Machine Section 2
+- [ ] #Machine Lab 3 📅 2023-05-05
 - [ ] #Machine Project Submission 📅 2023-05-25
 - [ ] #Machine Trolley Sheet 2 📅 2023-05-01
 - [ ] #Machine Reverse Engineering 📅 2023-05-15
