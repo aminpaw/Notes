@@ -54,7 +54,7 @@ kanban-plugin: basic
 
 ## Electronics
 
-- [ ] Lab 3
+- [x] Lab 3
 - [ ] Lab 4
 - [ ] Project
 - [ ] Filters
