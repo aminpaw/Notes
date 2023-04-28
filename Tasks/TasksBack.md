@@ -11,7 +11,7 @@ kanban-plugin: basic
 
 ## Machine
 
-- [ ] #Machine Lec 3
+- [x] #Machine Lec 3
 - [ ] #Machine Section 2
 - [ ] #Machine Lab 3 📅 2023-05-05
 - [ ] #Machine Project Submission 📅 2023-05-25
