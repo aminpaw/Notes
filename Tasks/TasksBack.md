@@ -12,20 +12,20 @@ kanban-plugin: basic
 ## Machine
 
 - [ ] #Machine Section 2
-- [ ] #Machine Lab 3 📅 2023-05-05
-- [ ] #Machine Project Submission 📅 2023-05-25
-- [ ] #Machine Trolley Sheet 2 📅 2023-05-01
-- [ ] #Machine Reverse Engineering 📅 2023-05-15
-- [ ] #Machine Wall Mounted Jib Crane 📅 2023-05-25
+- [ ] #Machine Trolley Sheet 2 @{01-05-2023}
+- [ ] #Machine Lab 3 @{05-05-2023}
+- [ ] #Machine Project Submission @{25-05-2023}
+- [ ] #Machine Reverse Engineering @{15-05-2023}
+- [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
 
 
 ## Metallurgy
 
 - [ ] #Metallurgy Fatigue Lec1
 - [ ] #Metallurgy Fatigue Lec2
-- [ ] #Metallurgy Quiz 3 📅 2023-04-30
-- [ ] #Metallurgy Quiz 4📅 2023-05-7
-- [ ] #Metallurgy Practical Exam 📅 2023-05-13
+- [ ] #Metallurgy Quiz 3 @{30-04-2023}
+- [ ] #Metallurgy Quiz 4 @{07-05-2023}
+- [ ] #Metallurgy Practical Exam @{13-05-2023}
 
 
 ## Rigid
@@ -36,7 +36,7 @@ kanban-plugin: basic
 
 ## Thermodynamics
 
-- [ ] Project @{25-04-2023}
+- [ ] Project @{25-05-2023}
 - [ ] Rankine Cycle
 
 
@@ -81,6 +81,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-in-title":true,"hide-tags-display":true,"date-colors":[{"isToday":false,"distance":3,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)"},{"isToday":false,"distance":1,"unit":"weeks","direction":"after","backgroundColor":"rgba(255, 208, 0, 1)"},{"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(0, 255, 13, 1)"}],"show-relative-date":true,"tag-colors":[]}
+{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-in-title":true,"hide-tags-display":true,"date-colors":[{"isToday":false,"distance":3,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(255, 255, 255, 1)"},{"isToday":false,"distance":1,"unit":"weeks","direction":"after","backgroundColor":"rgba(255, 208, 0, 1)","color":"rgba(0, 0, 0, 1)"},{"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(0, 255, 13, 1)","color":"rgba(0, 0, 0, 1)"}],"show-relative-date":true,"tag-colors":[],"hide-date-in-title":true}
 ```
 %%

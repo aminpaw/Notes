@@ -3,11 +3,6 @@
   "reminders": {
     "Tasks/TasksBack.md": [
       {
-        "title": "Project",
-        "time": "2023-04-25",
-        "rowNumber": 38
-      },
-      {
         "title": "#Metallurgy Quiz 3",
         "time": "2023-04-30",
         "rowNumber": 25
@@ -15,7 +10,7 @@
       {
         "title": "#Machine Trolley Sheet 2",
         "time": "2023-05-01",
-        "rowNumber": 16
+        "rowNumber": 14
       },
       {
         "title": "ADF paper",
@@ -25,7 +20,7 @@
       {
         "title": "#Machine Lab 3",
         "time": "2023-05-05",
-        "rowNumber": 14
+        "rowNumber": 15
       },
       {
         "title": "#Diff Quiz",
@@ -55,12 +50,17 @@
       {
         "title": "#Machine Project Submission",
         "time": "2023-05-25",
-        "rowNumber": 15
+        "rowNumber": 16
       },
       {
         "title": "#Machine Wall Mounted Jib Crane",
         "time": "2023-05-25",
         "rowNumber": 18
+      },
+      {
+        "title": "Project",
+        "time": "2023-05-25",
+        "rowNumber": 38
       }
     ]
   },
