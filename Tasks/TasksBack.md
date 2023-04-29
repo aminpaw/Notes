@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## Machine
 
-- [x] #Machine Lec 3
 - [ ] #Machine Section 2
 - [ ] #Machine Lab 3 📅 2023-05-05
 - [ ] #Machine Project Submission 📅 2023-05-25
@@ -54,7 +53,6 @@ kanban-plugin: basic
 
 ## Electronics
 
-- [x] Lab 3
 - [ ] Lab 4
 - [ ] Project
 - [ ] Filters
@@ -79,6 +77,8 @@ kanban-plugin: basic
 - [x] #Diff Fourier Series
 - [x] Interactive JS fourier Series<br>[(338) Coding Challenge 125: Fourier Series - YouTube](https://www.youtube.com/watch?v=Mm2eYfj0SgA)
 - [x] #Metallurgy Heat Treatment
+- [x] #Machine Lec 3
+- [x] Lab 3
 
 %% kanban:settings
 ```
