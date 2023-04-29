@@ -36,7 +36,7 @@ kanban-plugin: basic
 
 ## Thermodynamics
 
-- [ ] Project 📅 2023-05-25
+- [ ] Project @{25-04-2023}
 - [ ] Rankine Cycle
 
 
@@ -44,8 +44,8 @@ kanban-plugin: basic
 
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis
-- [ ] #Diff Quiz📅 2023-05-06
-- [ ] #Diff Formative Assignment 📅 2023-05-12
+- [ ] #Diff Quiz @{06-05-2023}
+- [ ] #Diff Formative Assignment @{12-05-2023}
 
 
 ## Electronics
@@ -81,6 +81,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-in-title":true,"hide-tags-display":true}
+{"kanban-plugin":"basic","show-checkboxes":true,"hide-tags-in-title":true,"hide-tags-display":true,"date-colors":[{"isToday":false,"distance":3,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)"},{"isToday":false,"distance":1,"unit":"weeks","direction":"after","backgroundColor":"rgba(255, 208, 0, 1)"},{"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(0, 255, 13, 1)"}],"show-relative-date":true,"tag-colors":[]}
 ```
 %%
