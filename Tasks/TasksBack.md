@@ -23,7 +23,6 @@ kanban-plugin: basic
 
 - [ ] #Metallurgy Fatigue Lec1
 - [ ] #Metallurgy Fatigue Lec2
-- [ ] #Metallurgy  Impact
 - [ ] #Metallurgy Quiz 3 📅 2023-04-30
 - [ ] #Metallurgy Quiz 4📅 2023-05-7
 - [ ] #Metallurgy Practical Exam 📅 2023-05-13
@@ -78,6 +77,7 @@ kanban-plugin: basic
 - [x] #Machine Lec 3
 - [x] Lab 3
 - [x] Refrigeration Cycle
+- [x] #Metallurgy  Impact
 
 %% kanban:settings
 ```
