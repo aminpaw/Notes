@@ -12,7 +12,6 @@ kanban-plugin: basic
 ## Machine
 
 - [ ] #Machine Section 2
-- [ ] #Machine Trolley Sheet 2 @{01-05-2023}
 - [ ] #Machine Project Submission @{25-05-2023}
 - [ ] #Machine Reverse Engineering @{15-05-2023}
 - [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
@@ -24,6 +23,7 @@ kanban-plugin: basic
 - [ ] #Metallurgy Fatigue Lec2
 - [ ] #Metallurgy Quiz 4 @{07-05-2023}
 - [ ] #Metallurgy Practical Exam @{13-05-2023}
+- [ ] creep test
 
 
 ## Rigid
@@ -36,6 +36,7 @@ kanban-plugin: basic
 
 - [ ] Project @{25-05-2023}
 - [ ] Rankine Cycle
+- [ ] Brayton Cycle
 
 
 ## Differential
@@ -78,6 +79,7 @@ kanban-plugin: basic
 - [x] #Metallurgy  Impact
 - [x] #Machine Lab 3 @{05-05-2023}
 - [x] #Metallurgy Quiz 3 @{30-04-2023}
+- [x] #Machine Trolley Sheet 2 @{01-05-2023}
 
 %% kanban:settings
 ```
