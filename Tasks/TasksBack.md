@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## Machine
 
-- [ ] #Machine Section 2
 - [ ] #Machine Project Submission @{25-05-2023}
 - [ ] #Machine Reverse Engineering @{15-05-2023}
 - [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
@@ -80,6 +79,7 @@ kanban-plugin: basic
 - [x] #Machine Lab 3 @{05-05-2023}
 - [x] #Metallurgy Quiz 3 @{30-04-2023}
 - [x] #Machine Trolley Sheet 2 @{01-05-2023}
+- [x] #Machine Section 2
 
 %% kanban:settings
 ```
