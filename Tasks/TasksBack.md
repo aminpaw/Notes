@@ -51,7 +51,7 @@ kanban-plugin: basic
 
 - [ ] Lab 4
 - [ ] Project
-- [ ] Filters
+- [x] Filters
 
 
 ## Doing
