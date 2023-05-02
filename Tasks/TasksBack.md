@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] #Machine Project Submission @{25-05-2023}
 - [ ] #Machine Reverse Engineering @{15-05-2023}
 - [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
+- [ ] Practice
 
 
 ## Metallurgy
