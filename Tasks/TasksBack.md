@@ -35,7 +35,7 @@ kanban-plugin: basic
 
 - [ ] Project @{25-05-2023}
 - [ ] Rankine Cycle
-- [ ] Brayton Cycle
+- [x] Brayton Cycle
 
 
 ## Differential
