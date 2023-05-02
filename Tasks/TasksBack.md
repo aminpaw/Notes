@@ -36,7 +36,6 @@ kanban-plugin: basic
 
 - [ ] Project @{25-05-2023}
 - [ ] Rankine Cycle
-- [x] Brayton Cycle
 
 
 ## Differential
@@ -51,7 +50,6 @@ kanban-plugin: basic
 
 - [ ] Lab 4
 - [ ] Project
-- [x] Filters
 
 
 ## Doing
@@ -81,6 +79,8 @@ kanban-plugin: basic
 - [x] #Metallurgy Quiz 3 @{30-04-2023}
 - [x] #Machine Trolley Sheet 2 @{01-05-2023}
 - [x] #Machine Section 2
+- [x] Brayton Cycle
+- [x] Filters
 
 %% kanban:settings
 ```
