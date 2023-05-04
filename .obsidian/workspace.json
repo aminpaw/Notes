@@ -16,8 +16,19 @@
                 "file": "Tasks/TasksBack.md"
               }
             }
+          },
+          {
+            "id": "aa111aad4a4d653f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "453b377911af9604",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -170,7 +189,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c592cf532c1268ac",
+  "active": "aa111aad4a4d653f",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/TasksBack.md",
