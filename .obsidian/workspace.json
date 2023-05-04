@@ -16,19 +16,8 @@
                 "file": "Tasks/TasksBack.md"
               }
             }
-          },
-          {
-            "id": "aa111aad4a4d653f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +178,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "aa111aad4a4d653f",
+  "active": "c592cf532c1268ac",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/TasksBack.md",
