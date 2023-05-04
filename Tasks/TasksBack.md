@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## FSAI
 
-- [ ] ADF paper @{04-05-2023}
 
 
 ## Machine
@@ -48,7 +47,6 @@ kanban-plugin: basic
 
 ## Electronics
 
-- [x] Lab 4
 - [ ] Project
 
 
@@ -81,6 +79,8 @@ kanban-plugin: basic
 - [x] #Machine Section 2
 - [x] Brayton Cycle
 - [x] Filters
+- [x] ADF paper @{04-05-2023}
+- [x] Lab 4
 
 %% kanban:settings
 ```
