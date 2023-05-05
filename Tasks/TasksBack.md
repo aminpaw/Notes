@@ -41,7 +41,7 @@ kanban-plugin: basic
 
 - [ ] #Diff Solving DEs using Laplace
 - [ ] #Diff Numerical Analysis
-- [ ] #Diff Quiz @{06-05-2023}
+- [ ] #Diff Quiz @{09-05-2023}
 - [ ] #Diff Formative Assignment @{12-05-2023}
 
 
