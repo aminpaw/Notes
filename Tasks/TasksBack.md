@@ -18,7 +18,7 @@ kanban-plugin: basic
 
 ## Metallurgy
 
-- [ ] #Metallurgy Fatigue Lec1
+- [x] #Metallurgy Fatigue Lec1
 - [ ] #Metallurgy Fatigue Lec2
 - [ ] #Metallurgy Quiz 4 @{07-05-2023}
 - [ ] #Metallurgy Practical Exam @{13-05-2023}
