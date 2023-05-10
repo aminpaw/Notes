@@ -18,11 +18,7 @@ kanban-plugin: basic
 
 ## Metallurgy
 
-- [x] #Metallurgy Fatigue Lec1
-- [x] #Metallurgy Fatigue Lec2
-- [ ] #Metallurgy Quiz 4 @{07-05-2023}
 - [ ] #Metallurgy Practical Exam @{13-05-2023}
-- [ ] creep test
 
 
 ## Rigid
@@ -39,9 +35,6 @@ kanban-plugin: basic
 
 ## Differential
 
-- [ ] #Diff Solving DEs using Laplace
-- [ ] #Diff Numerical Analysis
-- [ ] #Diff Quiz @{09-05-2023}
 - [ ] #Diff Formative Assignment @{12-05-2023}
 
 
@@ -81,6 +74,13 @@ kanban-plugin: basic
 - [x] Filters
 - [x] ADF paper @{04-05-2023}
 - [x] Lab 4
+- [x] #Metallurgy Fatigue Lec1
+- [x] #Metallurgy Fatigue Lec2
+- [x] #Metallurgy Quiz 4 @{07-05-2023}
+- [x] creep test
+- [x] #Diff Solving DEs using Laplace
+- [x] #Diff Numerical Analysis
+- [x] #Diff Quiz @{09-05-2023}
 
 %% kanban:settings
 ```

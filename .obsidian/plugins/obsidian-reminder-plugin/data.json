@@ -3,24 +3,14 @@
   "reminders": {
     "Tasks/TasksBack.md": [
       {
-        "title": "#Metallurgy Quiz 4",
-        "time": "2023-05-07",
-        "rowNumber": 22
-      },
-      {
-        "title": "#Diff Quiz",
-        "time": "2023-05-09",
-        "rowNumber": 43
-      },
-      {
         "title": "#Diff Formative Assignment",
         "time": "2023-05-12",
-        "rowNumber": 44
+        "rowNumber": 37
       },
       {
         "title": "#Metallurgy Practical Exam",
         "time": "2023-05-13",
-        "rowNumber": 23
+        "rowNumber": 20
       },
       {
         "title": "#Machine Reverse Engineering",
@@ -40,7 +30,7 @@
       {
         "title": "Project",
         "time": "2023-05-25",
-        "rowNumber": 35
+        "rowNumber": 31
       }
     ]
   },
