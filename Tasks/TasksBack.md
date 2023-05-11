@@ -51,6 +51,11 @@ kanban-plugin: basic
 
 
 
+## Self Study
+
+- [ ] VHDL and FPGA<br>[FPGA and VHDL Fast-Track: Hands-On for Absolute Beginners (vhdlwhiz.com)](https://academy.vhdlwhiz.com/fast-track#:~:text=Get%20started%20learning%20today%21%20Get%20access%20to%2035,Kick-start%20your%20learning%20with%20the%20supplied%20project%20files)
+
+
 ***
 
 ## Archive
