@@ -57,6 +57,7 @@ kanban-plugin: basic
 - [ ] PADS pcb design
 - [ ] Web Dev
 - [ ] ITI - Embedded Systems
+- [ ] Docker
 
 
 ***
