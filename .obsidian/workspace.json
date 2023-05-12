@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76afe24d20aaf472",
+        "id": "aacfa5222e7ae157",
         "type": "tabs",
         "children": [
           {
-            "id": "c592cf532c1268ac",
+            "id": "9ba9ca1b6456bdef",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -155,17 +155,9 @@
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "b5e363245cba92ae",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,11 +177,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c592cf532c1268ac",
+  "active": "9ba9ca1b6456bdef",
   "lastOpenFiles": [
+    "Tasks/TasksBack.md",
     "Tasks/Tasks.md",
     "Sophomore Mech. S2/Untitled.md",
-    "Tasks/TasksBack.md",
     "Untitled.md",
     "202304261508.md",
     "Tasks/Untitled Kanban 2.md",
