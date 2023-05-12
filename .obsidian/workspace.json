@@ -155,14 +155,21 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "b5e363245cba92ae",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +188,7 @@
   "active": "c592cf532c1268ac",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
+    "Sophomore Mech. S2/Untitled.md",
     "Tasks/TasksBack.md",
     "Untitled.md",
     "202304261508.md",
@@ -188,7 +196,6 @@
     "Tasks/Untitled Kanban 1.md",
     "Tasks/Untitled Kanban.md",
     "Rigid.md",
-    "Sophomore Mech. S2/Untitled.md",
     "Sophomore Mech. S2",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
