@@ -59,14 +59,7 @@ kanban-plugin: basic
 - [ ] ITI - Embedded Systems
 - [ ] Docker
 
-
-## captured [[2023-05-12]] at `15:29`
-
-
-
-## Send to obsidian:
-
-- [ ] Electronics Quiz @{13-05-2023}
+# Tasks
 
 
 ***
@@ -102,6 +95,11 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","date-colors":[{"isToday":false,"distance":5,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(255, 255, 255, 1)"},{"distance":10,"unit":"days","direction":"after","backgroundColor":"rgba(255, 229, 0, 1)","color":"rgba(0, 0, 0, 1)"},{"distance":1,"unit":"days","direction":"after","isAfter":true,"backgroundColor":"rgba(15, 201, 0, 1)","color":"rgba(0, 0, 0, 1)"}],"show-checkboxes":true}
+{"kanban-plugin":"basic","date-colors":[{"isToday":false,"distance":5,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(255, 255, 255, 1)"},{"distance":10,"unit":"days","direction":"after","backgroundColor":"rgba(255, 229, 0, 1)","color":"rgba(0, 0, 0, 1)"},{"distance":1,"unit":"days","direction":"after","isAfter":true,"backgroundColor":"rgba(15, 201, 0, 1)","color":"rgba(0, 0, 0, 1)"}],"show-checkboxes":true,"show-relative-date":true,"hide-date-in-title":true,"hide-tags-in-title":true}
 ```
 %%
+
+
+- [ ] Quiz @{today}:
+---
+ Quiz @{today} 

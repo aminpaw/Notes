@@ -11,9 +11,11 @@
             "id": "9ba9ca1b6456bdef",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/TasksBack.md"
+                "file": "Tasks/TasksBack.md",
+                "mode": "source",
+                "source": false
               }
             }
           }

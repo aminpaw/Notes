@@ -1,7 +1,7 @@
 {
   "appendToDailyNote": false,
   "appendPath": "Tasks/TasksBack.md",
-  "appendTemplate": "\n---\n#### captured [[{{date}}]] at `{{time}}`\n\n{{content}}\n",
+  "appendTemplate": "- [ ] {{content}}\n",
   "dateFormat": "YYYY-MM-DD",
   "timeFormat": "HH:mm",
   "showInStatusBar": true

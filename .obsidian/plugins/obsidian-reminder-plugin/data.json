@@ -13,11 +13,6 @@
         "rowNumber": 20
       },
       {
-        "title": "Electronics Quiz",
-        "time": "2023-05-13",
-        "rowNumber": 68
-      },
-      {
         "title": "#Machine Reverse Engineering",
         "time": "2023-05-15",
         "rowNumber": 13
@@ -45,7 +40,7 @@
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week\nIn 3 days\nIn 2 days\nIn 4 days\nIn 5 days\nIn 6 days\nIn 0 days",
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
-    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "primaryReminderFormat": "KanbanPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
