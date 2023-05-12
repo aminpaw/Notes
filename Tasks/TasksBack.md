@@ -19,8 +19,8 @@
 - [ ] #Metallurgy Quiz 3
 - [ ] #Metallurgy Report
 - [ ] #Thermo Project 📅 2023-05-26
-- [ ] #Electronics Lab 4 📅 2023-05-05
-- [ ] #Machine Lab 3📅 2023-05-06
+- [x] #Electronics Lab 4 📅 2023-05-05 ✅ 2023-05-08
+- [x] #Machine Lab 3📅 2023-05-06 ✅ 2023-05-08
 - [ ] #Machine Sheet 2 📅 2023-05-01 
 
 # Metallurgy
