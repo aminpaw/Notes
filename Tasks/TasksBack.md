@@ -24,7 +24,6 @@ kanban-plugin: basic
 
 - [ ] #Rigid Kinetics Force & Acceleration Method Part 1
 - [ ] #Rigid Kinetics Force & Acceleration Method Part 2
-- [ ] Assignment @{16-05-2023}
 
 
 ## Thermodynamics
@@ -94,6 +93,7 @@ kanban-plugin: basic
 - [x] #Diff Quiz @{09-05-2023}
 - [x] 15-05-2023 10:12 Rankine Cycle
 - [x] 15-05-2023 10:12 Project
+- [x] 15-05-2023 15:49 Assignment @{16-05-2023}
 
 %% kanban:settings
 ```
