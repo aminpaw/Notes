@@ -2,5 +2,50 @@
   "date-picker-week-start": 6,
   "archive-date-format": "DD-MM-YYYY HH:mm",
   "date-format": "DD-MM-YYYY",
-  "date-display-format": "DD-MM-YYYY"
+  "date-display-format": "DD-MM-YYYY",
+  "hide-card-count": true,
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "archive-with-date": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 5,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 0, 0, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 10,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 255, 0, 1)",
+      "color": "rgba(0, 0, 0, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "backgroundColor": "rgba(0, 255, 60, 1)",
+      "color": "rgba(0, 0, 0, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isBefore": true,
+      "backgroundColor": "rgba(255, 0, 0, 1)"
+    }
+  ],
+  "hide-date-in-title": true,
+  "show-relative-date": true
 }

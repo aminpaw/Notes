@@ -10,37 +10,35 @@ kanban-plugin: basic
 
 ## Machine
 
-- [ ] #Machine Project Submission @{25-05-2023}
-- [ ] #Machine Reverse Engineering @{15-05-2023}
+- [ ] #Machine Reverse Engineering @{20-05-2023}
 - [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
 - [ ] Practice
 
 
 ## Metallurgy
 
-- [ ] #Metallurgy Practical Exam @{13-05-2023}
+- [ ] #Metallurgy Practical Exam @{21-05-2023}
 
 
 ## Rigid
 
 - [ ] #Rigid Kinetics Force & Acceleration Method Part 1
 - [ ] #Rigid Kinetics Force & Acceleration Method Part 2
+- [ ] Assignment @{16-05-2023}
 
 
 ## Thermodynamics
 
 - [ ] Project @{25-05-2023}
-- [ ] Rankine Cycle
 
 
 ## Differential
 
-- [ ] #Diff Formative Assignment @{12-05-2023}
+- [ ] #Diff Formative Assignment @{18-05-2023}
 
 
 ## Electronics
 
-- [ ] Project
 
 
 ## Doing
@@ -59,7 +57,9 @@ kanban-plugin: basic
 - [ ] ITI - Embedded Systems
 - [ ] Docker
 
-# Tasks
+
+## Tasks
+
 
 
 ***
@@ -92,14 +92,11 @@ kanban-plugin: basic
 - [x] #Diff Solving DEs using Laplace
 - [x] #Diff Numerical Analysis
 - [x] #Diff Quiz @{09-05-2023}
+- [x] 15-05-2023 10:12 Rankine Cycle
+- [x] 15-05-2023 10:12 Project
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","date-colors":[{"isToday":false,"distance":5,"unit":"days","direction":"after","backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(255, 255, 255, 1)"},{"distance":10,"unit":"days","direction":"after","backgroundColor":"rgba(255, 229, 0, 1)","color":"rgba(0, 0, 0, 1)"},{"distance":1,"unit":"days","direction":"after","isAfter":true,"backgroundColor":"rgba(15, 201, 0, 1)","color":"rgba(0, 0, 0, 1)"}],"show-checkboxes":true,"show-relative-date":true,"hide-date-in-title":true,"hide-tags-in-title":true}
+{"kanban-plugin":"basic"}
 ```
 %%
-
-
-- [ ] Quiz @{today}:
----
- Quiz @{today} 
