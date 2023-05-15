@@ -1,8 +1,0 @@
-{
-  "appendToDailyNote": false,
-  "appendPath": "Tasks/TasksBack.md",
-  "appendTemplate": "- [ ] {{content}}\n",
-  "dateFormat": "YYYY-MM-DD",
-  "timeFormat": "HH:mm",
-  "showInStatusBar": true
-}

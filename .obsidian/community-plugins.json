@@ -2,9 +2,6 @@
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-version-history-diff",
-  "card-board",
   "obsidian-kanban",
-  "obsidian-reminder-plugin",
-  "google-calendar",
-  "hints-plugin"
+  "obsidian-reminder-plugin"
 ]
