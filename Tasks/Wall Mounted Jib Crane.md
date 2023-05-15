@@ -1,18 +1,18 @@
 - [ ] Construction Drawings:
-	- [ ] A
-	- [ ] B
-	- [ ] C
+	- [ ] A - Adham
+	- [ ] B - Amin
+	- [ ] C - Ammar
 - [ ] Working Drawings:
-	- [ ] Tie Rod
-	- [ ] Connection btwn Tie Rod and Post
-	- [ ] Connection btwn Post and I-beam
-	- [ ] Connection btwn Tie Rod and I-beam
+	- [ ] Tie Rod - Omar Emad
+	- [ ] Connection btwn Tie Rod and Post - Omar Khaled
+	- [ ] Connection btwn Post and I-beam - Youssef
+	- [ ] Connection btwn Tie Rod and I-beam - Adham
 - [ ] Calculate Reactions:
-	- [ ] Tie Rod & Post
-	- [ ] Tie Rod & I-beam
-	- [ ] Post & I-beam
-- [ ] Calculate Suitable I-beam size
-- [ ] Draw Loading Diagram for I-beam
-- [ ] Check Suitability of using Steel 37
-- [ ] Draw Loading Diagram for tie rod
-- [ ] Determine minimum yield strength for the rod based on *normal stresses only* 
+	- [ ] Tie Rod & Post - Amin
+	- [ ] Tie Rod & I-beam - Ammar
+	- [ ] Post & I-beam - Omar Emad
+- [ ] Calculate Suitable I-beam size - Omar Khaled
+- [ ] Draw Loading Diagram for I-beam - Youssef
+- [ ] Check Suitability of using Steel 37 - Adham
+- [ ] Draw Loading Diagram for tie rod - Amin
+- [ ] Determine minimum yield strength for the rod based on **normal stresses only** - Ammar
