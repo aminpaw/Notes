@@ -18,6 +18,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "e4b5987b63f67226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86fd897cdd81789d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Wall Mounted Jib Crane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/TasksBack.md",
+                "file": "Tasks/Wall Mounted Jib Crane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/TasksBack.md",
+                "file": "Tasks/Wall Mounted Jib Crane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/TasksBack.md"
+                "file": "Tasks/Wall Mounted Jib Crane.md"
               }
             }
           },
@@ -155,13 +173,22 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "6266244cbe7709bf",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +204,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9ba9ca1b6456bdef",
+  "active": "6266244cbe7709bf",
   "lastOpenFiles": [
     "Tasks/TasksBack.md",
+    "Tasks/Wall Mounted Jib Crane.md",
     "Tasks/Tasks.md",
     "Sophomore Mech. S2/Untitled.md",
     "Untitled.md",

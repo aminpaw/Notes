@@ -11,7 +11,7 @@ kanban-plugin: basic
 ## Machine
 
 - [ ] #Machine Reverse Engineering @{20-05-2023}
-- [ ] #Machine Wall Mounted Jib Crane @{25-05-2023}
+- [ ] #Machine [[Wall Mounted Jib Crane]] @{25-05-2023}
 - [ ] Practice
 
 

@@ -1,0 +1,18 @@
+- [ ] Construction Drawings:
+	- [ ] A
+	- [ ] B
+	- [ ] C
+- [ ] Working Drawings:
+	- [ ] Tie Rod
+	- [ ] Connection btwn Tie Rod and Post
+	- [ ] Connection btwn Post and I-beam
+	- [ ] Connection btwn Tie Rod and I-beam
+- [ ] Calculate Reactions:
+	- [ ] Tie Rod & Post
+	- [ ] Tie Rod & I-beam
+	- [ ] Post & I-beam
+- [ ] Calculate Suitable I-beam size
+- [ ] Draw Loading Diagram for I-beam
+- [ ] Check Suitability of using Steel 37
+- [ ] Draw Loading Diagram for tie rod
+- [ ] Determine minimum yield strength for the rod based on *normal stresses only* 
