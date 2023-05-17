@@ -182,8 +182,7 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "card-board:CardBoard": false
+      "random-note:Open random note": false
     }
   },
   "active": "9ba9ca1b6456bdef",
