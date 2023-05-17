@@ -55,6 +55,7 @@ kanban-plugin: basic
 - [ ] Web Dev
 - [ ] ITI - Embedded Systems
 - [ ] Docker
+- [ ] Firmata
 
 
 ## Tasks
