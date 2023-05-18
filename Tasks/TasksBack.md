@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 - [ ] #Machine Reverse Engineering @{20-05-2023}
 - [ ] #Machine [[Wall Mounted Jib Crane]] @{25-05-2023}
-- [ ] Practice
+- [ ] Final Exam @{28-05-2023}
 
 
 ## Metallurgy
@@ -33,11 +33,11 @@ kanban-plugin: basic
 
 ## Differential
 
-- [ ] #Diff Formative Assignment @{18-05-2023}
 
 
 ## Electronics
 
+- [ ] Final Exam @{30-05-2023}
 
 
 ## Doing
@@ -95,6 +95,7 @@ kanban-plugin: basic
 - [x] 15-05-2023 10:12 Rankine Cycle
 - [x] 15-05-2023 10:12 Project
 - [x] 15-05-2023 15:49 Assignment @{16-05-2023}
+- [x] 18-05-2023 02:00 #Diff Formative Assignment @{18-05-2023}
 
 %% kanban:settings
 ```

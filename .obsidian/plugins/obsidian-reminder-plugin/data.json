@@ -3,19 +3,9 @@
   "reminders": {
     "Tasks/TasksBack.md": [
       {
-        "title": "#Diff Formative Assignment",
-        "time": "2023-05-18",
-        "rowNumber": 35
-      },
-      {
         "title": "#Machine Reverse Engineering",
         "time": "2023-05-20",
         "rowNumber": 12
-      },
-      {
-        "title": "#Metallurgy Practical Exam",
-        "time": "2023-05-21",
-        "rowNumber": 19
       },
       {
         "title": "#Machine [[Wall Mounted Jib Crane]]",
@@ -23,9 +13,24 @@
         "rowNumber": 13
       },
       {
+        "title": "Final Exam",
+        "time": "2023-05-28",
+        "rowNumber": 14
+      },
+      {
+        "title": "#Metallurgy Practical Exam",
+        "time": "2023-05-21",
+        "rowNumber": 19
+      },
+      {
         "title": "Project",
         "time": "2023-05-25",
         "rowNumber": 30
+      },
+      {
+        "title": "Final Exam",
+        "time": "2023-05-30",
+        "rowNumber": 39
       }
     ]
   },
