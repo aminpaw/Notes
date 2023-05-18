@@ -29,6 +29,13 @@ kanban-plugin: basic
 ## Thermodynamics
 
 - [ ] Project @{25-05-2023}
+- [ ] Otto Cycle
+- [ ] Rankine Cycle
+- [ ] Brayton Cycle
+- [ ] Diesel Cycle
+- [ ] Refrigeration Cycle
+- [ ] Air - Vapour Mixture
+- [ ] Gas Mixture
 
 
 ## Differential
