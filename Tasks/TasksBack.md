@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] #Machine Reverse Engineering @{20-05-2023}
 - [ ] #Machine [[Wall Mounted Jib Crane]] @{25-05-2023}
 - [ ] Final Exam @{28-05-2023}
+- [ ] Assignment 2 @{22-05-2023}
 
 
 ## Metallurgy
@@ -45,6 +46,14 @@ kanban-plugin: basic
 ## Electronics
 
 - [ ] Final Exam @{30-05-2023}
+- [ ] BJT
+- [ ] MOSFET
+- [ ] OpAmp
+- [ ] Oscillators
+- [ ] Filters
+- [ ] Multivibrators
+- [ ] Diodes
+- [ ] DAC, ADC
 
 
 ## Doing

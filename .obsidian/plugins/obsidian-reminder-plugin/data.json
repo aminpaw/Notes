@@ -8,19 +8,9 @@
         "rowNumber": 12
       },
       {
-        "title": "#Metallurgy Practical Exam",
-        "time": "2023-05-21",
-        "rowNumber": 19
-      },
-      {
         "title": "#Machine [[Wall Mounted Jib Crane]]",
         "time": "2023-05-25",
         "rowNumber": 13
-      },
-      {
-        "title": "Project",
-        "time": "2023-05-25",
-        "rowNumber": 30
       },
       {
         "title": "Final Exam",
@@ -28,9 +18,24 @@
         "rowNumber": 14
       },
       {
+        "title": "Assignment 2",
+        "time": "2023-05-22",
+        "rowNumber": 15
+      },
+      {
+        "title": "#Metallurgy Practical Exam",
+        "time": "2023-05-21",
+        "rowNumber": 20
+      },
+      {
+        "title": "Project",
+        "time": "2023-05-25",
+        "rowNumber": 31
+      },
+      {
         "title": "Final Exam",
         "time": "2023-05-30",
-        "rowNumber": 46
+        "rowNumber": 47
       }
     ]
   },
