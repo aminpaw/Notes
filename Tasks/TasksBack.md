@@ -8,14 +8,6 @@ kanban-plugin: basic
 
 
 
-## Machine
-
-- [ ] #Machine Reverse Engineering @{20-05-2023}
-- [ ] #Machine [[Wall Mounted Jib Crane]] @{25-05-2023}
-- [ ] Final Exam @{28-05-2023}
-- [ ] Assignment 2 @{22-05-2023}
-
-
 ## Metallurgy
 
 - [ ] #Metallurgy Practical Exam @{21-05-2023}
@@ -41,19 +33,6 @@ kanban-plugin: basic
 
 ## Differential
 
-
-
-## Electronics
-
-- [ ] Final Exam @{30-05-2023}
-- [ ] BJT
-- [ ] MOSFET
-- [ ] OpAmp
-- [ ] Oscillators
-- [ ] Filters
-- [ ] Multivibrators
-- [ ] Diodes
-- [ ] DAC, ADC
 
 
 ## Doing
@@ -83,6 +62,19 @@ kanban-plugin: basic
 
 ## Archive
 
+- [ ] 01-06-2023 09:53 Final Exam @{30-05-2023}
+- [ ] 01-06-2023 09:53 BJT
+- [ ] 01-06-2023 09:53 MOSFET
+- [ ] 01-06-2023 09:53 OpAmp
+- [ ] 01-06-2023 09:53 Oscillators
+- [ ] 01-06-2023 09:53 Filters
+- [ ] 01-06-2023 09:53 Multivibrators
+- [ ] 01-06-2023 09:53 Diodes
+- [ ] 01-06-2023 09:53 DAC, ADC
+- [ ] 01-06-2023 09:53 #Machine Reverse Engineering @{20-05-2023}
+- [ ] 01-06-2023 09:53 #Machine [[Wall Mounted Jib Crane]] @{25-05-2023}
+- [ ] 01-06-2023 09:53 Final Exam @{28-05-2023}
+- [ ] 01-06-2023 09:53 Assignment 2 @{22-05-2023}
 - [x] #Electronics OpAmps ✅ 2023-04-24
 - [x] #Electronics Arduino voltmeter ✅ 2023-04-24
 - [x] #Electronics Quiz 📅 2023-04-25 ✅ 2023-04-26
