@@ -33,6 +33,8 @@ kanban-plugin: basic
 ## Differential
 
 - [ ] PDE
+- [ ] Wave Equation
+- [ ] Heat Equations
 
 
 ## Doing
