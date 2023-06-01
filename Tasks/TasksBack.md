@@ -32,6 +32,7 @@ kanban-plugin: basic
 
 ## Differential
 
+- [ ] PDE
 
 
 ## Doing
