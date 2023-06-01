@@ -72,6 +72,7 @@ kanban-plugin: basic
 - [ ] ITI - Embedded Systems
 - [ ] Docker
 - [ ] Firmata
+- [ ] Manim - 3b1b Animation
 
 
 ## Tasks
