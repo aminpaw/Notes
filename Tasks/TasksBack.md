@@ -19,17 +19,6 @@ kanban-plugin: basic
 - [ ] #Rigid Kinetics Force & Acceleration Method Part 2
 
 
-## Thermodynamics
-
-- [ ] Otto Cycle
-- [ ] Rankine Cycle
-- [ ] Brayton Cycle
-- [ ] Diesel Cycle
-- [ ] Refrigeration Cycle
-- [ ] Air - Vapour Mixture
-- [ ] Gas Mixture
-
-
 ## Differential
 
 - [ ] PDE
@@ -64,6 +53,13 @@ kanban-plugin: basic
 
 ## Archive
 
+- [ ] 06-06-2023 16:29 Otto Cycle
+- [ ] 06-06-2023 16:29 Rankine Cycle
+- [ ] 06-06-2023 16:29 Brayton Cycle
+- [ ] 06-06-2023 16:29 Diesel Cycle
+- [ ] 06-06-2023 16:29 Refrigeration Cycle
+- [ ] 06-06-2023 16:29 Air - Vapour Mixture
+- [ ] 06-06-2023 16:29 Gas Mixture
 - [ ] 01-06-2023 09:53 Final Exam @{30-05-2023}
 - [ ] 01-06-2023 09:53 BJT
 - [ ] 01-06-2023 09:53 MOSFET
