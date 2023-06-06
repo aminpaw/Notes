@@ -16,8 +16,19 @@
                 "file": "Tasks/TasksBack.md"
               }
             }
+          },
+          {
+            "id": "ee4916b6716a53f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +196,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9ba9ca1b6456bdef",
+  "active": "ee4916b6716a53f7",
   "lastOpenFiles": [
     "Tasks/Wall Mounted Jib Crane.md",
     "Tasks/TasksBack.md",
