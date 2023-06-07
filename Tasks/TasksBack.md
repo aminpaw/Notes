@@ -10,7 +10,17 @@ kanban-plugin: basic
 
 ## Metallurgy
 
-- [ ] #Metallurgy Practical Exam @{21-05-2023}
+- [x] Standards
+- [ ] Tension
+- [ ] Compression
+- [ ] Bending
+- [ ] Shear
+- [ ] Fatigue
+- [ ] Impact
+- [ ] Creep
+- [ ] Hardness
+- [ ] NDT
+- [ ] Heat Treatment
 
 
 ## Rigid
@@ -103,6 +113,7 @@ kanban-plugin: basic
 - [x] 15-05-2023 10:12 Project
 - [x] 15-05-2023 15:49 Assignment @{16-05-2023}
 - [x] 18-05-2023 02:00 #Diff Formative Assignment @{18-05-2023}
+- [ ] 07-06-2023 06:34 #Metallurgy Practical Exam @{21-05-2023}
 
 %% kanban:settings
 ```
