@@ -11,7 +11,7 @@ kanban-plugin: basic
 ## Metallurgy
 
 - [x] Standards
-- [ ] Tension
+- [x] Tension
 - [ ] Compression
 - [ ] Bending
 - [ ] Shear
