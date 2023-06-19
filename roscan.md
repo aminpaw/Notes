@@ -1,0 +1,5 @@
+- ebs is service 
+- AMI state not ros topic 
+- AS and TS master switch not ros topic
+- no info about sdc
+- 
