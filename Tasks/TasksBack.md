@@ -1,12 +1,8 @@
 # Uni
-- [ ] #Diff Solving DEs using Laplace
-- [ ] #Diff Numerical Analysis 
-- [ ] #Electronics OpAmps
-- [ ] #Electronics Arduino voltmeter 
-- [ ] #Thermo Start discussing project
-- [ ] #Thermo Refrigeration 
-- [ ] #Machine Lec 2
-- [ ] #Machine Section 2
-- [ ] #Machine practice drawing
-- [ ] #Rigid Force Acceleration method 
-- [ ] #Electronics Quiz 📅 2023-04-25 
+- [ ] #Logic Lecture 2
+- [ ] #Measurement Report
+- [ ] #Measurement Lecture 2
+- [ ] #Vibrations Review Lecture 2
+- [ ] #Vibrations Sheet
+- [ ] #Report Lecture 1
+- [ ] #Mechatronics Sensor Report

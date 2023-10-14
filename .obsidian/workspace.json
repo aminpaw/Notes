@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d006ae7975178d5",
+        "id": "0c3f9389d9623d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "7b44e5754a90ad65",
+            "id": "d3125ed42664fb62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm Tracker/Prev. Midterms.md",
+                "file": "Tasks/TasksBack.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9018d85149a12b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm Tracker/Thermodynamics/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1dd52ec06de0576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm Tracker/Midterm Contents.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f5c11ad79909a467",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm Tracker/Midterm Contents.md",
+                "file": "Tasks/TasksBack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm Tracker/Midterm Contents.md",
+                "file": "Tasks/TasksBack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm Tracker/Midterm Contents.md"
+                "file": "Tasks/TasksBack.md"
               }
             }
           },
@@ -162,7 +145,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks/Tasks.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -173,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +171,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e1dd52ec06de0576",
+  "active": "d3125ed42664fb62",
   "lastOpenFiles": [
+    "Tasks/Tasks.md",
+    "Tasks/TasksBack.md",
+    "Midterm Tracker/Prev. Midterms.md",
     "Midterm Tracker/Thermodynamics/Untitled.md",
     "Midterm Tracker/Midterm Contents.md",
-    "Tasks/Tasks.md",
-    "Midterm Tracker/Prev. Midterms.md",
     "Midterm Tracker/Thermodynamics",
     "Midterm Tracker",
     "Tasks/Tasks Backend.md",
