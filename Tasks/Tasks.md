@@ -1,9 +1,4 @@
----
-
-kanban-plugin: basic
-
----
-
+# Uni
 ## Doing
 ```tasks
 heading includes uni
