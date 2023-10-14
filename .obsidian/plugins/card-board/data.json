@@ -1,0 +1,66 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "Logic",
+              "displayTitle": "Logic"
+            },
+            {
+              "tag": "Measurement",
+              "displayTitle": "Measurement"
+            },
+            {
+              "tag": "Mechatronics",
+              "displayTitle": "Mechatronics"
+            },
+            {
+              "tag": "Vibrations",
+              "displayTitle": "Vibrations"
+            },
+            {
+              "tag": "Report",
+              "displayTitle": "Report"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Tasks/TasksBack.md"
+            },
+            {
+              "tag": "pathFilter",
+              "data": "Tasks"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Tasks",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

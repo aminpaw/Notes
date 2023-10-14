@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3f9389d9623d6a",
+        "id": "c90eb3ad09d9c2fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d3125ed42664fb62",
+            "id": "4240124f909d4ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tasks/TasksBack.md",
-                "mode": "source",
-                "source": true
+                "file": "Tasks/Tasks.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/TasksBack.md",
+                "file": "Tasks/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/TasksBack.md",
+                "file": "Tasks/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/TasksBack.md"
+                "file": "Tasks/Tasks.md"
               }
             }
           },
@@ -145,7 +143,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -156,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,16 +167,19 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "d3125ed42664fb62",
+  "active": "4240124f909d4ab0",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/TasksBack.md",
-    "Midterm Tracker/Prev. Midterms.md",
-    "Midterm Tracker/Thermodynamics/Untitled.md",
+    "Tasks/Untitled Kanban.md",
     "Midterm Tracker/Midterm Contents.md",
+    "Midterm Tracker/Prev. Midterms.md",
+    "Midterms/Electronics.md",
+    "Midterm Tracker/Thermodynamics/Untitled.md",
     "Midterm Tracker/Thermodynamics",
     "Midterm Tracker",
     "Tasks/Tasks Backend.md",
