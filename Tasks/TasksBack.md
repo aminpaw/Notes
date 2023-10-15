@@ -14,7 +14,7 @@ kanban-plugin: basic
 - [ ] #Report Lecture 1
 - [ ] #Mechatronics Sensor Report
 - [ ] #Vibrations Sheet 2
-- [ ] #Mechatronics Sheet 1
+- [x] #Mechatronics Sheet 1
 
 
 ## FS-AI
