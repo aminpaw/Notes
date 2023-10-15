@@ -16,8 +16,19 @@
                 "file": "Tasks/TasksBack.md"
               }
             }
+          },
+          {
+            "id": "d89c9273d1321e27",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f985278ca1f94d15",
+  "active": "d89c9273d1321e27",
   "lastOpenFiles": [
     "Tasks/TasksBack.md",
     "Tasks/Tasks.md",
