@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4930bccc9e2c7f04",
+        "id": "a568aa228aef6508",
         "type": "tabs",
         "children": [
           {
-            "id": "31ba23a24c343078",
+            "id": "c20fca6eb5165622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tasks/TasksBack.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "31ba23a24c343078",
+  "active": "c20fca6eb5165622",
   "lastOpenFiles": [
     "Tasks/Tasks.md",
     "Tasks/TasksBack.md",

@@ -11,7 +11,7 @@ kanban-plugin: basic
 - [ ] #Measurement Lecture 2
 - [ ] #Vibrations Review Lecture 2
 - [ ] #Report Lecture 1
-- [ ] #Mechatronics Sensor Report
+- [x] #Mechatronics Sensor Report ✅ 2023-10-17
 - [ ] #Vibrations Sheet 2
 - [x] #Mechatronics Sheet 1
 - [x] #Measurement Report 2 ✅ 2023-10-17
