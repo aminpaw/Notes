@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Uni
 
-- [ ] #Logic Lecture 2
+- [x] #Logic Lecture 2 ✅ 2023-10-17
 - [ ] #Measurement Report 1
 - [ ] #Measurement Lecture 2
 - [ ] #Vibrations Review Lecture 2
@@ -14,7 +14,7 @@ kanban-plugin: basic
 - [ ] #Mechatronics Sensor Report
 - [ ] #Vibrations Sheet 2
 - [x] #Mechatronics Sheet 1
-- [ ] #Measurement Report 2
+- [x] #Measurement Report 2 ✅ 2023-10-17
 
 
 ## FS-AI
