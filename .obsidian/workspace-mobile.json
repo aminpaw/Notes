@@ -13,14 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Tasks.md",
-                "mode": "source",
+                "file": "Tasks/TasksBack.md",
+                "mode": "preview",
                 "source": false
               }
             },
             "group": "3e025264c676d37c"
+          },
+          {
+            "id": "86fccfdc40e4a4fc",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ffdd0a5d36b1cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/TasksBack.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d7be18e8c2d19fe3",
@@ -32,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Tasks/TasksBack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/Tasks.md",
+                "file": "Tasks/TasksBack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +177,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "974c2af7b2b67f7b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -170,7 +199,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tasks/Tasks.md",
+            "file": "Tasks/TasksBack.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +216,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tasks/Tasks.md",
+            "file": "Tasks/TasksBack.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +228,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tasks/Tasks.md"
+            "file": "Tasks/TasksBack.md"
           }
         }
       },
@@ -224,18 +253,22 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "84795f8e20d39a10",
+  "active": "9ffdd0a5d36b1cf6",
   "lastOpenFiles": [
+    "Tasks/Untitled Kanban.md",
     "Tasks/TasksBack.md",
     "Tasks/Tasks.md",
+    "Untitled",
+    "Journal/2023-03-22.md",
+    "/index",
     "Tasks",
     "Tasks/FSAI Tasks.md",
     "Midterms/Electronics.md",
     "Midterms",
-    "/index",
     "index",
     "/objects/e3/ea750fe431a4ba747d66f6338fdb5098717882",
     "objects/e3",

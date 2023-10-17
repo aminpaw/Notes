@@ -7,13 +7,14 @@ kanban-plugin: basic
 ## Uni
 
 - [ ] #Logic Lecture 2
-- [ ] #Measurement Report
+- [ ] #Measurement Report 1
 - [ ] #Measurement Lecture 2
 - [ ] #Vibrations Review Lecture 2
 - [ ] #Report Lecture 1
 - [ ] #Mechatronics Sensor Report
 - [ ] #Vibrations Sheet 2
 - [x] #Mechatronics Sheet 1
+- [ ] #Measurement Report 2
 
 
 ## FS-AI
